@@ -1,0 +1,1 @@
+# construir una funcion que reciba como parametro una lista de datos numeriocos y que retorne el promedio de los datos pares

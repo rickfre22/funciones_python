@@ -1,0 +1,1 @@
+# construir una funcion que reciba  como parametro una lista  de datos numericos y que retorne la suma de  dichos datos
